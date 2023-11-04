@@ -141,7 +141,7 @@ To install, run the following command:
 mvn clean install
 ```
 
-To add a dependency on HttpShuttle using Maven, use the following:
+To add a dependency on AllYourHttpBase using Maven, use the following:
 
 ```xml
 <dependency>
