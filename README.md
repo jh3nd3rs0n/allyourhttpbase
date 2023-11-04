@@ -1,6 +1,6 @@
 # AllYourHttpBase
 
-[![CodeQL](https://github.com/jh3nd3rs0n/allyourhttpbase/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/jh3nd3rs0n/allyourhttpbase/actions/workflows/codeql-analysis.yml) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/2ee3f3d4617f4ac989dd7cc21bc7e6fe)](https://www.codacy.com/gh/jh3nd3rs0n/httpshuttle/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jh3nd3rs0n/httpshuttle&amp;utm_campaign=Badge_Grade)
+[![CodeQL](https://github.com/jh3nd3rs0n/allyourhttpbase/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/jh3nd3rs0n/allyourhttpbase/actions/workflows/codeql-analysis.yml) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/2ee3f3d4617f4ac989dd7cc21bc7e6fe)](https://app.codacy.com/gh/jh3nd3rs0n/allyourhttpbase/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 
 ## Contents
 
